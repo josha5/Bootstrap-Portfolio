@@ -9,7 +9,10 @@ body {
 
 .container {
     background-color:#ffffff;
-    border: 1px solid black;
+    border: 1px solid #dddddd;
+    margin-top: 10px;
+    height: auto;
+    width: 960px;
 }
 
 .profile-pic {
@@ -25,8 +28,11 @@ header {
 
 h1,h2,h3,h4,h5 {
     font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
 }
 
-p {
+p, li {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 25px;
+    color: #777777;
 }
