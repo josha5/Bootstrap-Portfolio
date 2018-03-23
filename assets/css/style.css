@@ -1,3 +1,15 @@
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-size: 24px;
+    color: white !important;
+    margin-left: 20px;
+}
+
+.navbar-brand:hover {
+    color: black !important;
+    background-color: #4aaaa5 !important;
+}
+
 hr {
     height: 3px; 
     background-color: #eee
